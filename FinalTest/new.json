@@ -1,0 +1,529 @@
+[
+    {
+      "actors": "Robert Pattinson, Zo\u00eb Kravitz",
+      "description": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "actor": [
+          {
+            "@type": "Person",
+            "name": "Robert Pattinson",
+            "url": "https://www.imdb.com/name/nm1500155/"
+          },
+          {
+            "@type": "Person",
+            "name": "Zo\u00eb Kravitz",
+            "url": "https://www.imdb.com/name/nm2368789/"
+          },
+          {
+            "@type": "Person",
+            "name": "Jeffrey Wright",
+            "url": "https://www.imdb.com/name/nm0942482/"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "bestRating": 10,
+          "ratingCount": 851217,
+          "ratingValue": 7.8,
+          "worstRating": 1
+        },
+        "contentRating": "UA",
+        "creator": [
+          {
+            "@type": "Organization",
+            "url": "https://www.imdb.com/company/co0002663/"
+          },
+          {
+            "@type": "Organization",
+            "url": "https://www.imdb.com/company/co0123927/"
+          },
+          {
+            "@type": "Organization",
+            "url": "https://www.imdb.com/company/co0510680/"
+          },
+          {
+            "@type": "Person",
+            "name": "Matt Reeves",
+            "url": "https://www.imdb.com/name/nm0716257/"
+          },
+          {
+            "@type": "Person",
+            "name": "Peter Craig",
+            "url": "https://www.imdb.com/name/nm0185976/"
+          },
+          {
+            "@type": "Person",
+            "name": "Bob Kane",
+            "url": "https://www.imdb.com/name/nm0004170/"
+          }
+        ],
+        "datePublished": "2022-03-04",
+        "description": "When a sadistic serial killer begins murdering key political figures in Gotham, the Batman is forced to investigate the city&apos;s hidden corruption and question his family&apos;s involvement.",
+        "director": [
+          {
+            "@type": "Person",
+            "name": "Matt Reeves",
+            "url": "https://www.imdb.com/name/nm0716257/"
+          }
+        ],
+        "duration": "PT2H56M",
+        "genre": [
+          "Action",
+          "Crime",
+          "Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BOTU0MmEyZjMtZDc4Ni00Y2M1LTgyNWEtNjFlNmRjY2Q2NTRmXkEyXkFqcGc@._V1_.jpg",
+        "keywords": "batman character,gotham city,masked superhero,superhero,bruce wayne character",
+        "name": "The Batman",
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "slightlymad22"
+          },
+          "dateCreated": "2022-03-04",
+          "inLanguage": "English",
+          "itemReviewed": {
+            "@type": "Movie",
+            "url": "https://www.imdb.com/title/tt1877830/"
+          },
+          "name": "Not For Everyone",
+          "reviewBody": "I just got out of The Batman\n\nThis movie really won&apos;t be for everyone!! Easily the darkest Batman movie yet. It is gritty, depressing and not a fun movie at all.\n\nThis isn&apos;t your usual comic book movie, it&apos;s a detective movie, with more in common with Se7en, than previous Batman movies. The first two thirds of the movie are amazing, at one point I turned to my son and said &quot;This is a masterpiece&quot; everything works and is brilliant, I was 100% enthralled, but boy does it drop the ball in the final act.\n\nOf the cast Pattinson is great, Collin Farrell is ok, Zoe Kravitz was fine too, but she has zero chemistry with Pattinson (Keaton and Pfeiffer they are not), Paul Dano though, was incredible, especially in the scene in Arkham, whilst Geoffrey Wright is as great as he always is.\n\nOn the downside, It does have some pacing issues, and is really too long (though I&apos;m not sure what I&apos;d cut), and I really wasn&apos;t keen on the ending (I don&apos;t know if it is a comic book storyline they did), as I think the final act really lets the movie down!! It&apos;s here, in the final act, that you feel the movies run time!!\n\nI was surprised there were only 36 other people in my screening.",
+          "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+          }
+        },
+        "trailer": {
+          "@type": "VideoObject",
+          "description": "When the Riddler, a sadistic serial killer, begins murdering key political figures in Gotham, Batman is forced to investigate the city&apos;s hidden corruption and question his family&apos;s involvement.",
+          "duration": "PT30S",
+          "embedUrl": "https://www.imdb.com/video/imdb/vi3215114777",
+          "name": "Official Trailer",
+          "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTdjOTQ1NDItYjBkYy00OTA3LTk3NDItOTk5YTg4NGZmYmZhXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+          },
+          "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTdjOTQ1NDItYjBkYy00OTA3LTk3NDItOTk5YTg4NGZmYmZhXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+          "uploadDate": "2022-04-12T21:09:58.105Z",
+          "url": "https://www.imdb.com/video/vi3215114777/"
+        },
+        "url": "https://www.imdb.com/title/tt1877830/"
+      },
+      "title": "The Batman",
+      "url": "https://www.imdb.com//title/tt1877830/",
+      "year": "2022"
+    },
+    {
+      "actors": "Colin Farrell, Robert Pattinson",
+      "description": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "actor": [
+          {
+            "@type": "Person",
+            "name": "Colin Farrell",
+            "url": "https://www.imdb.com/name/nm0268199/"
+          },
+          {
+            "@type": "Person",
+            "name": "Robert Pattinson",
+            "url": "https://www.imdb.com/name/nm1500155/"
+          },
+          {
+            "@type": "Person",
+            "name": "Jeffrey Wright",
+            "url": "https://www.imdb.com/name/nm0942482/"
+          }
+        ],
+        "creator": [
+          {
+            "@type": "Organization",
+            "url": "https://www.imdb.com/company/co0510680/"
+          },
+          {
+            "@type": "Organization",
+            "url": "https://www.imdb.com/company/co0123927/"
+          },
+          {
+            "@type": "Organization",
+            "url": "https://www.imdb.com/company/co0863266/"
+          },
+          {
+            "@type": "Person",
+            "name": "Peter Craig",
+            "url": "https://www.imdb.com/name/nm0185976/"
+          },
+          {
+            "@type": "Person",
+            "name": "Bill Finger",
+            "url": "https://www.imdb.com/name/nm0277730/"
+          },
+          {
+            "@type": "Person",
+            "name": "Bob Kane",
+            "url": "https://www.imdb.com/name/nm0004170/"
+          }
+        ],
+        "datePublished": "2027-10-01",
+        "director": [
+          {
+            "@type": "Person",
+            "name": "Matt Reeves",
+            "url": "https://www.imdb.com/name/nm0716257/"
+          }
+        ],
+        "genre": [
+          "Action",
+          "Crime",
+          "Drama"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU2NzhiYWUtYThlZi00OWIyLTk3YWEtZjY3NmJjOTZiZDAyXkEyXkFqcGc@._V1_.jpg",
+        "keywords": "sequel,second part,based on comic book,based on comic,batman character",
+        "name": "The Batman Part II",
+        "trailer": {
+          "@type": "VideoObject",
+          "description": "Except for the bat signal in the final shot of &quot;The Penguin,&quot; we never got our Robert Pattinson Batman cameo in 8 episodes charting Oz Cobb&apos;s brutal rise from mafia chauffeur to Gotham City crime boss. In this short explainer, IMDb tries to answer: Where the heck was Batman? And what can we expect from director Matt Reeves&apos;s &apos;The Batman: Part II&apos; (2026).",
+          "duration": "PT1M47S",
+          "embedUrl": "https://www.imdb.com/video/imdb/vi4021274905",
+          "name": "After The Penguin, What&apos;s Next for The Batman?",
+          "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzhmNmYwNDItMjdlNi00ODlmLWEwNGQtODdkYTRhZWM5ZDQ1XkEyXkFqcGdeQWFsZWxvZw@@._V1_.jpg"
+          },
+          "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzhmNmYwNDItMjdlNi00ODlmLWEwNGQtODdkYTRhZWM5ZDQ1XkEyXkFqcGdeQWFsZWxvZw@@._V1_.jpg",
+          "uploadDate": "2024-11-12T16:13:07.966Z",
+          "url": "https://www.imdb.com/video/vi4021274905/"
+        },
+        "url": "https://www.imdb.com/title/tt19850008/"
+      },
+      "title": "The Batman Part II",
+      "url": "https://www.imdb.com//title/tt19850008/",
+      "year": "2027"
+    },
+    {
+      "actors": "Rino Romano, Alastair Duncan",
+      "description": {
+        "@context": "https://schema.org",
+        "@type": "TVSeries",
+        "actor": [
+          {
+            "@type": "Person",
+            "name": "Rino Romano",
+            "url": "https://www.imdb.com/name/nm0738951/"
+          },
+          {
+            "@type": "Person",
+            "name": "Alastair Duncan",
+            "url": "https://www.imdb.com/name/nm0241885/"
+          },
+          {
+            "@type": "Person",
+            "name": "Evan Sabara",
+            "url": "https://www.imdb.com/name/nm0754513/"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "bestRating": 10,
+          "ratingCount": 14126,
+          "ratingValue": 7.4,
+          "worstRating": 1
+        },
+        "contentRating": "TV-Y7",
+        "creator": [
+          {
+            "@type": "Organization",
+            "url": "https://www.imdb.com/company/co0072876/"
+          },
+          {
+            "@type": "Organization",
+            "url": "https://www.imdb.com/company/co0038332/"
+          },
+          {
+            "@type": "Person",
+            "name": "Duane Capizzi",
+            "url": "https://www.imdb.com/name/nm0135184/"
+          },
+          {
+            "@type": "Person",
+            "name": "Bill Finger",
+            "url": "https://www.imdb.com/name/nm0277730/"
+          },
+          {
+            "@type": "Person",
+            "name": "Michael Goguen",
+            "url": "https://www.imdb.com/name/nm0324713/"
+          }
+        ],
+        "datePublished": "2004-09-11",
+        "description": "Billionaire Bruce Wayne fights crime and evil as the mysterious Batman.",
+        "genre": [
+          "Animation",
+          "Action",
+          "Adventure"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BYzczY2YwOGMtYjA2OC00NTJjLWI2NzgtYTA4MDhjNTMxZGVkXkEyXkFqcGc@._V1_.jpg",
+        "keywords": "batman character,bruce wayne character,alfred pennyworth character,psychotronic series,new jersey",
+        "name": "The Batman",
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "koelsch575"
+          },
+          "dateCreated": "2009-11-11",
+          "inLanguage": "English",
+          "itemReviewed": {
+            "@type": "TVSeries",
+            "url": "https://www.imdb.com/title/tt0398417/"
+          },
+          "name": "It&apos;s Batman from another perspective.",
+          "reviewBody": "One of the biggest disappointments to people is this show&apos;s animation and the radical looks of some villains (mostly Joker).\n\nThe animation was done very slick in a Japanese anime style to catch new audiences that are used to it these days. Let&apos;s be honest and remember that old DCAU shows changed their animation from &quot;The New Adventures of Batman&quot; to &quot;Justice League&quot; for the same reason.\n\nThe reason for more action is because of that stupid 65 episode rule. This gives limited time for story which I find disappointing, you can tell they were going for a story that would lead to a Dark Knight Returns kind of arc. The show seems campy at times(because of those damn rules child broadcasting has), but has more dark moments like it should. You can easily tell from the first two episodes that they had planned for a mob story-arc similar to Batman:Year One. Each season pretty much starts with a story that grows to a nice climax at the end(the same technique is done in Marvel&apos;s new series &quot;The Spectacular Spiderman&quot;). If you continue to watch the show, you can see how his detective skills grow over time. Remember we&apos;re watching a young Bruce growing into the Dark Knight the city needs him to be.\n\nIn BTAS he&apos;s been at it as Batman for a couple of years already, he&apos;s known as a detective, and is accepted by the police. This show has him on the vigilante side and Gordon doesn&apos;t come in until later. I love how we get to see more of Bruce having a social life and protecting his alter-ego, where in BTAS how do you not know he&apos;s Batman!? Kevin Conroy&apos;s awesome but his voice doesn&apos;t seem to change in and out of the cowl. The creators of the show took their own liberties to pay respect to BTAS and the shadow it will forever cast. The use of villains is good too, I like how they use the lesser known ones.\n\nThe visuals are stunning in the fight and chase scenes(you can tell they were pulled right out of Batman comics), sound quality is top of the line for an animated show too. You have a sense of life from Gotham too. Where in previous DCAU shows there would be so many fights in the city you&apos;d ask yourself &quot;where are the people?&quot;. I personally think Clayface was done well, but nothing beats how Dr. Hugo Strange is portrayed. I personally think this incarnation of him is used best (even better than BTAS portrayal). The fact that the villains can stand a fighting chance to Batman was always cool to me, I like how each one has their own fighting style. As a Bat-fan I disliked how the villains would do nothing but plot and you knew in the back of your head that in the end of the episode all it&apos;s gonna take is one punch from Batman to end it. Joker is always a subject of debate among people who see this show. To me not liking this Joker is like hating Heath Ledger&apos;s portrayal(his Joker was so radical that his skin wasn&apos;t even bleached), they both do a great job nonetheless. Personally I think Mark Hamill forever nailed the role.\n\nEverything else was because of legal issues really. Robin appearing after Batgirl(because of Teen Titans ending), Batman not having a square chin and Kevin Conroy not doing the voice(because Justice League was still on at the time, Rino Ramano did a good job as a young Batman though), Scarecrow, Two-Face, and Ra&apos;s Al Ghul not appearing(because of them being in the new movies).\n\nIn a time where good cartoons are hard to find these days the creators of this show worked with what they had and did a great job at it.",
+          "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+          }
+        },
+        "trailer": {
+          "@type": "VideoObject",
+          "description": "",
+          "duration": "PT31S",
+          "embedUrl": "https://www.imdb.com/video/imdb/vi2373369369",
+          "name": "Trailer",
+          "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDRkYmYzNTItODAyMS00ODM1LTk4NmEtZTM0ODA1MDRkNzI2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+          },
+          "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDRkYmYzNTItODAyMS00ODM1LTk4NmEtZTM0ODA1MDRkNzI2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+          "uploadDate": "2020-07-23T20:47:18.315Z",
+          "url": "https://www.imdb.com/video/vi2373369369/"
+        },
+        "url": "https://www.imdb.com/title/tt0398417/"
+      },
+      "title": "The Batman",
+      "url": "https://www.imdb.com//title/tt0398417/",
+      "year": "2004\u20132008"
+    },
+    {
+      "actors": "Kevin Conroy, Loren Lester",
+      "description": {
+        "@context": "https://schema.org",
+        "@type": "TVSeries",
+        "actor": [
+          {
+            "@type": "Person",
+            "name": "Kevin Conroy",
+            "url": "https://www.imdb.com/name/nm0175834/"
+          },
+          {
+            "@type": "Person",
+            "name": "Loren Lester",
+            "url": "https://www.imdb.com/name/nm0504489/"
+          },
+          {
+            "@type": "Person",
+            "name": "Efrem Zimbalist Jr.",
+            "url": "https://www.imdb.com/name/nm0956544/"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "bestRating": 10,
+          "ratingCount": 124415,
+          "ratingValue": 9,
+          "worstRating": 1
+        },
+        "contentRating": "TV-PG",
+        "creator": [
+          {
+            "@type": "Organization",
+            "url": "https://www.imdb.com/company/co0072876/"
+          },
+          {
+            "@type": "Person",
+            "name": "Bob Kane",
+            "url": "https://www.imdb.com/name/nm0004170/"
+          },
+          {
+            "@type": "Person",
+            "name": "Eric Radomski",
+            "url": "https://www.imdb.com/name/nm0705779/"
+          },
+          {
+            "@type": "Person",
+            "name": "Bruce Timm",
+            "url": "https://www.imdb.com/name/nm0863622/"
+          }
+        ],
+        "datePublished": "1992-09-05",
+        "description": "The Dark Knight battles crime in Gotham City.",
+        "genre": [
+          "Animation",
+          "Action",
+          "Adventure"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BYjgwZWUzMzUtYTFkNi00MzM0LWFkMWUtMDViMjMxNGIxNDUxXkEyXkFqcGc@._V1_.jpg",
+        "keywords": "shared universe,batman character,dc animated universe,based on comic book,neo noir",
+        "name": "Batman: The Animated Series",
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "grendelkhan"
+          },
+          "dateCreated": "2003-09-10",
+          "inLanguage": "English",
+          "itemReviewed": {
+            "@type": "TVSeries",
+            "url": "https://www.imdb.com/title/tt0103359/"
+          },
+          "name": "The series that finally got it right!",
+          "reviewBody": "We longtime (read &quot;old&quot;) fans of Batman have been waiting for a cinematic Batman that reflects the greatness of the comic books.  Unfortunately, we have had to put up with the worst attempts to realize this great character. The movie serials were atrocious, the Adam West show, although entertaining, treated the character as a joke.  The Filmation cartoons and the Superfriends were watered down. The more recent movies are a mixed bag. Then, along came BTAS, and we were finally satisfied.\n\nEverything, from the look and tone of the animation, to the stories and voicework was first-rate.  Batman is the Dark knight Detective.  He&apos;s not a guy in a rubber suit.  He is skilled, intelligent, obsessed, tortured, and dedicated.  The villains are evil, psychotic, and just plain loopy.  We have Paul Dini&apos;s wonderful creation of Harley Quinn, the first inspired and interesting character, since Denny O&apos;Neil created Ra&apos;s al Ghul.\n\nThe creators took their cue from the legendary Flesicher Bros. version of Superman, with it&apos;s Art Deco stylings and darker color palette.  It took its story concepts from the work of Bill Finger, Denny O&apos;Neil, Frank Miller, and Steve Engelhart.  The music was inspired by the wonderful Danny Elfman music from the Tim Burton film.  The voicework featured outstanding actors, with mature direction from Andrea Romano.\n\nThe only criticism I can level at the show is that they avoided doing a complete episode revolving around Batman&apos;s origin.  Granted, the broadcast standards and practices limited how much they could show, but they found a way to present Robin&apos;s origin, without sacrificing story.  They did present elements, but I would have liked to have seen a complete episode, with his training and &quot;year one&quot; adventures.  The Superfriends episode, &quot;The Fear&quot; presented more of the origin than BTAS ever depicted.  Still, it didn&apos;t detract from the overall effectiveness of the series.\n\nThe series even improved on some of the elements of the comics.  Personally, I never thought much of Bane, but I enjoyed the BTAS version, complete with the Lucha Libre stylings; Bane as luchador hitman, classic!  The Joker was far more interesting here than he had been for some time in the comics.  The Riddler came across as deadly, rather than a joke.  Alfred provided more than window dressing.\n\nThis is the series that set the standard for all other cinematic Batman efforts.  Thankfully, it removed the bitter taste of Joel Schumacher."
+        },
+        "trailer": {
+          "@type": "VideoObject",
+          "description": "Trailer for Batman: The Animated Series - Volume 3",
+          "duration": "PT50S",
+          "embedUrl": "https://www.imdb.com/video/imdb/vi1675207961",
+          "name": "Batman: The Animated Series: Volume 3",
+          "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTk5NmFhYjUtYThiNS00NGIzLWI2YmQtMGU0MDllYjQzNDllXkEyXkFqcGdeQWpybA@@._V1_.jpg"
+          },
+          "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTk5NmFhYjUtYThiNS00NGIzLWI2YmQtMGU0MDllYjQzNDllXkEyXkFqcGdeQWpybA@@._V1_.jpg",
+          "uploadDate": "2012-08-17T08:10:08Z",
+          "url": "https://www.imdb.com/video/vi1675207961/"
+        },
+        "url": "https://www.imdb.com/title/tt0103359/"
+      },
+      "title": "Batman: The Animated Series",
+      "url": "https://www.imdb.com//title/tt0103359/",
+      "year": "1992\u20131995"
+    },
+    {
+      "actors": "Will Arnett, Michael Cera",
+      "description": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "actor": [
+          {
+            "@type": "Person",
+            "name": "Will Arnett",
+            "url": "https://www.imdb.com/name/nm0004715/"
+          },
+          {
+            "@type": "Person",
+            "name": "Michael Cera",
+            "url": "https://www.imdb.com/name/nm0148418/"
+          },
+          {
+            "@type": "Person",
+            "name": "Rosario Dawson",
+            "url": "https://www.imdb.com/name/nm0206257/"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "bestRating": 10,
+          "ratingCount": 179285,
+          "ratingValue": 7.3,
+          "worstRating": 1
+        },
+        "alternateName": "The LEGO Batman Movie",
+        "contentRating": "U",
+        "creator": [
+          {
+            "@type": "Organization",
+            "url": "https://www.imdb.com/company/co0005154/"
+          },
+          {
+            "@type": "Organization",
+            "url": "https://www.imdb.com/company/co0123927/"
+          },
+          {
+            "@type": "Organization",
+            "url": "https://www.imdb.com/company/co0602537/"
+          },
+          {
+            "@type": "Person",
+            "name": "Seth Grahame-Smith",
+            "url": "https://www.imdb.com/name/nm0334381/"
+          },
+          {
+            "@type": "Person",
+            "name": "Chris McKenna",
+            "url": "https://www.imdb.com/name/nm0571344/"
+          },
+          {
+            "@type": "Person",
+            "name": "Erik Sommers",
+            "url": "https://www.imdb.com/name/nm1273099/"
+          }
+        ],
+        "datePublished": "2017-02-17",
+        "description": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+        "director": [
+          {
+            "@type": "Person",
+            "name": "Chris McKay",
+            "url": "https://www.imdb.com/name/nm0003021/"
+          }
+        ],
+        "duration": "PT1H44M",
+        "genre": [
+          "Animation",
+          "Action",
+          "Adventure"
+        ],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_.jpg",
+        "keywords": "lego,batmobile,based on comic book,batman character,lobster",
+        "name": "The Lego Batman Movie",
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hitchcoc"
+          },
+          "dateCreated": "2018-10-21",
+          "inLanguage": "English",
+          "itemReviewed": {
+            "@type": "Movie",
+            "url": "https://www.imdb.com/title/tt4116284/"
+          },
+          "name": "A Funny Take on the Batman Story",
+          "reviewBody": "I wasn&apos;t prepared to like this. Still, all the sight gags, the references to past super-hero characters, grow on you. There are lots of funny lines and Batman is a total, self serving jerk. The business about Robin being adopted is a bit much. But the world created with the popular plastic toys is remarkable. It&apos;s almost overkill. I think I may watch it again where I can stop and check out some of what they were doing. I think this franchise is doing much better than I imagined it would.",
+          "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+          }
+        },
+        "trailer": {
+          "@type": "VideoObject",
+          "description": "There are big changes brewing in Gotham, and if Batman wants to save the city from the Joker&apos;s hostile takeover, he may have to drop the lone vigilante thing, try to work with others, and maybe learn to lighten up.",
+          "duration": "PT1M46S",
+          "embedUrl": "https://www.imdb.com/video/imdb/vi466269721",
+          "name": "Extended TV Spot",
+          "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTY0NTAyMDA5NV5BMl5BanBnXkFtZTgwODM2NzM4MDI@._V1_.jpg"
+          },
+          "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTY0NTAyMDA5NV5BMl5BanBnXkFtZTgwODM2NzM4MDI@._V1_.jpg",
+          "uploadDate": "2016-12-12T09:26:51Z",
+          "url": "https://www.imdb.com/video/vi466269721/"
+        },
+        "url": "https://www.imdb.com/title/tt4116284/"
+      },
+      "title": "The LEGO Batman Movie",
+      "url": "https://www.imdb.com//title/tt4116284/",
+      "year": "2017"
+    }
+  ]
+  
